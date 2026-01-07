@@ -4,7 +4,6 @@
 # Approach: Sliding Window + Hash Map (Frequency Map)
 # Language: Python
 # ---------------------------------------------------------
-
 class Solution:
     def countDistinct(self, arr, k):
         n = len(arr)

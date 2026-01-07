@@ -8,7 +8,6 @@
 class Solution:
     def countDistinct(self, arr, k):
         n = len(arr)
-
         # Dictionary to store frequency of elements
         freq = {}
 
